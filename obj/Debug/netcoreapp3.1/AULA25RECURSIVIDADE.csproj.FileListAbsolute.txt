@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.exe
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.deps.json
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.dll
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\bin\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.pdb
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.dll
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.pdb
+C:\Users\vinicius\Documents\AULA25RECURSIVIDADE\obj\Debug\netcoreapp3.1\AULA25RECURSIVIDADE.genruntimeconfig.cache
